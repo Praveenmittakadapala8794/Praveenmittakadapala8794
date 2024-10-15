@@ -10,7 +10,7 @@
 - 📫 How to reach me **mittakadapala.praveen@gmail.com**
 
 - ⚡ Fun fact **I have a knack for spotting patterns in data, and I love solving puzzles in my free time!**
--  <h3 align="left">Programming Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
